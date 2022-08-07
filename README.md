@@ -8,3 +8,7 @@ Front-End: Python
 Back-End: SQlite3
 
 other-supporting libraries: pyinvoice, numpy, pyqt5
+
+
+![image](https://user-images.githubusercontent.com/72330957/183281029-bfeec05b-d3d6-471b-8638-75f8561b9029.png)
+
