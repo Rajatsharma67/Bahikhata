@@ -12,3 +12,21 @@ other-supporting libraries: pyinvoice, numpy, pyqt5
 
 ![image](https://user-images.githubusercontent.com/72330957/183281029-bfeec05b-d3d6-471b-8638-75f8561b9029.png)
 
+![image](https://user-images.githubusercontent.com/72330957/183281057-692926e8-e453-420c-9d68-b2cdea57cdb9.png)
+
+![image](https://user-images.githubusercontent.com/72330957/183281080-4f010f81-5b63-49ca-a277-33a24c3fbf55.png)
+
+![image](https://user-images.githubusercontent.com/72330957/183281117-3861524f-1826-46eb-a231-e7c81803f650.png)
+
+![image](https://user-images.githubusercontent.com/72330957/183281123-ef8603d5-c15b-41fa-9149-302a08011338.png)
+
+![image](https://user-images.githubusercontent.com/72330957/183281136-f3bf7f6e-bcd1-457f-9e2c-495803707509.png)
+
+![image](https://user-images.githubusercontent.com/72330957/183281147-d57ae474-590b-4afa-8c12-bc98f7f390c2.png)
+
+![image](https://user-images.githubusercontent.com/72330957/183281160-f0b2b369-a725-4485-a831-6fadbd21a097.png)
+
+![image](https://user-images.githubusercontent.com/72330957/183281173-0dcb272a-f043-43ea-aae6-f84e378e27a3.png)
+
+
+
